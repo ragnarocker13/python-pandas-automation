@@ -1,4 +1,6 @@
-# athanasia_ioannis - Python & SQL test
+# ATHANASIA LOANNIS - Python & SQL test
+
+All codes were ran and tested in Jupyter Notebook and VScode.
 
 ## PYTHON LIBRARIES REQUIRED
 
@@ -17,6 +19,8 @@ pip install selenium
 
 Chromedriver installed in /chromedriver inside the working directory
 https://chromedriver.storage.googleapis.com/index.html?path=110.0.5481.30/
+
+(optional) SQLite viewer
 
 ## INSTRUCTIONS
 
