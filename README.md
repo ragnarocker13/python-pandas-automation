@@ -35,3 +35,5 @@ Pull requests are mostly welcome.
 For major changes, kindly open an issue first to discuss what needs to be changed.
 
 Thanks!
+
+Don Jason Gruspe
