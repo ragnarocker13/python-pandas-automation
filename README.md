@@ -24,4 +24,10 @@ https://chromedriver.storage.googleapis.com/index.html?path=110.0.5481.30/
 
 2. Run test-python.ipynb / test-python.ipynb to create the pivot table and import to SQLite db
 
+## CONTRIBUTING
+
+Pull requests are mostly welcome. 
+
+For major changes, kindly open an issue first to discuss what needs to be changed.
+
 Thanks!
