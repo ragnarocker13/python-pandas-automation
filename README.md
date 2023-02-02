@@ -7,7 +7,7 @@ openpyxl
 selenium
 sqlite3 (if not yet installed)
 
-```python
+```bash
 pip install pandas
 pip install openpyxl
 pip install selenium
