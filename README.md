@@ -1,4 +1,4 @@
-# ATHANASIA LOANNIS - Python & SQL test
+# Python Automation with Pandas and Selenium
 
 All codes were ran and tested in Jupyter Notebook and VScode.
 
