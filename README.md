@@ -1,6 +1,6 @@
-# Python Automation with Pandas and Selenium
+# Python ETL with Pandas and Selenium
 
-All codes were ran and tested in Jupyter Notebook and VScode.
+All codes were run and tested in Jupyter Notebook and VScode.
 
 ## PYTHON LIBRARIES REQUIRED
 
